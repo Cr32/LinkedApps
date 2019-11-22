@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="ConquestTEST"
+  DTS:DTSID="{B2E3ABBD-021E-4351-9E08-DCD43513350F}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=SWSVR21;User ID=conquest.importer;Initial Catalog=ConquestPROD;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
